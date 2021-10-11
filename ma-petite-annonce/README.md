@@ -1,4 +1,4 @@
-#Technos utilisées
+# Technos utilisées
 
 - ReactJS
 - MongoDB
@@ -9,18 +9,19 @@
 - Figma
 - Gantt
 
-#Extensions VSC utiles
+# Extensions VSC utiles
 - ESLint
 - Bracket Pair Colorizer
 - GitLens
 - Live Sass Compiler
 
-#Launch App
-`npm start`
+# Launch App
+`yarn start`
 
-Projet d'étude - LPWAM Cergy 2021
-Création d'un site de petites annonces
-Equipe : 
+# Projet
+Création d'un site de petites annonces en ligne
+Equipe :
 - Baptiste Dantas
 - Thierno Baldé
 - Ulysse Perret
+LPWAM Cergy 2021
