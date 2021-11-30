@@ -16,7 +16,16 @@
 - Live Sass Compiler
 
 # Launch App
-`yarn start`
+`npm start' 'npm run sass`
+
+# Lancer l'API
+node index.js ou npm start
+
+# Maquette
+https://www.figma.com/file/tBd3XddEaMoPvbTMo3ygmx/Homepage
+
+# Extensions VSC utiles
+GitLens Live Sass Compiler
 
 # Projet
 Création d'un site de petites annonces en ligne
