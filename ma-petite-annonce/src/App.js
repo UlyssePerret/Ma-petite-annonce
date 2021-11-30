@@ -1,6 +1,5 @@
 import logo from './logo.svg';
-import './App.css';
-import './styles/sass/App.scss';
+import './styles/css/App.css'; 
 import Header from './components/Header';
 import CreateAnnonce from './components/CreateAnnonce';
 import Footer from './components/Footer';
@@ -19,6 +18,7 @@ function App() {
       <Homepage />
       <OneAnnonce />
       <PopupContact />
+      
       <Footer />
     </div>
   );
